@@ -203,3 +203,5 @@ A continuación dejo el pantallazo respectivo:
 Aquí tuve la suerte de que una tarea del cole fue hacerse un perfil de LinkedIn, así que solo le actualicé un poco los datos.
 
 El enlace a mi perfil de LinkedIn es el siguiente: [www.linkedin.com/in/david-alejandro-montes-rodríguez-57a293247](www.linkedin.com/in/david-alejandro-montes-rodríguez-57a293247)
+
+*no sé por qué github no lo abre directamente, pero sí funciona el link, solo que toca pegarlo en el navegador.
